@@ -1,2 +1,12 @@
-# discord-rat-example
-a simple example of how a Discord Webhook RAT works. The code sends a message to a webhook when the program is run, demonstrating the potential for remote access and control through the webhook. Please note that this repository is intended solely for educational purposes, and is designed to accompany a YouTube video explaining  how RATs work. 
+## Discord RAT Example
+
+This repository contains a simple Python script that demonstrates how a Discord Webhook RAT could work.
+
+## Disclaimer
+
+This code is provided just as an example only. It's not a malicious code it just sends a message on a discord webhook. Its an example of how a discord webhook rat could work after working on it a little bit more. 
+
+For a better understanding, please check out the YouTube video associated with this repository.
+
+##Youtube Video
+[]()
